@@ -13,7 +13,7 @@ A simple Hangman game built with HTML, CSS, and JavaScript.
    Open the `index.html` file directly in your browser.
 
 ### Spiele das Spiel hier:
-[Hangperson Game auf GitHub Pages](https://nicoleschulze.github.io/hangperson-game/)
+[Live Demo](https://nicoleschulze.github.io/hangperson-game/index.html)
 
 ## Preview  
 <img width="829" alt="Screenshot 2025-01-24 at 15 43 24" src="https://github.com/user-attachments/assets/29f73ebf-d478-4e0c-8299-489c4d7f1ccb" />
