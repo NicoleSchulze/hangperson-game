@@ -1,17 +1,6 @@
 # hangperson-game
 A simple Hangman game built with HTML, CSS, and JavaScript.
 
-## Requirements 
-- A modern web browser (e.g., Chrome, Firefox, Edge, Safari)  
-- No installation required
-
-## How to Use  
-1. **Download**  
-   Download all project files (HTML, CSS, JavaScript) into a folder on your computer.  
-
-2. **Open the File**  
-   Open the `index.html` file directly in your browser.
-
 ### Spiele das Spiel hier:
 [Live Demo](https://nicoleschulze.github.io/hangperson-game/Hangman.html)
 
