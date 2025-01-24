@@ -1,7 +1,7 @@
 # hangperson-game
 A simple Hangman game built with HTML, CSS, and JavaScript.
 
-### Spiele das Spiel hier:
+### Play the game here
 [Live Demo](https://nicoleschulze.github.io/hangperson-game/Hangman.html)
 
 ## Preview  
